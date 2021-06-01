@@ -1,1 +1,3 @@
-//leave blank
+basic.forever(function on_forever() {
+    
+})
