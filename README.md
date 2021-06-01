@@ -1,5 +1,5 @@
 
-> Open this page at [https://justinblack0454.github.io/hello-tutorial/](https://justinblack0454.github.io/hello-tutorial/)
+> Open this page at [https://justinblack0454.github.io/hello-tutorial/tutorial](https://justinblack0454.github.io/hello-tutorial/tutorial)
 
 ## Tutorials
 
