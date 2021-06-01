@@ -1,14 +1,9 @@
 
 > Open this page at [https://justinblack0454.github.io/hello-tutorial/](https://justinblack0454.github.io/hello-tutorial/)
 
-## Use as Extension
+## Tutorials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/justinblack0454/hello-tutorial** and import
+* [tutorial](/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/justinblack0454/hello-tutorial/workflows/MakeCode/badge.svg)
 
