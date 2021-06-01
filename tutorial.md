@@ -23,3 +23,5 @@ look at the microbit to the left and see what it says
 ## Step 4
 
 if you want, connect your micro:bit and click on the download button in the bottom left corner to see it on your micro:bit!
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
